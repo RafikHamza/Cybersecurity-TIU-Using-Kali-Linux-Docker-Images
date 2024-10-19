@@ -1,6 +1,6 @@
 FROM kalilinux/kali-rolling:latest
 
-LABEL website="https://github.com/steinruck/kali-xfce-novnc"
+LABEL website="https://github.com/RafikHamza/Cybersecurity-TIU-Using-Kali-Linux-Docker-Images"
 LABEL description="Kali with XFCE GUI in browser using noVNC."
 
 # Install kali packages
